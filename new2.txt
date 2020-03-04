@@ -1,6 +1,2 @@
 1111111111
-<<<<<<< HEAD
 aaaaaaaaaa
-=======
-a = master
->>>>>>> master
